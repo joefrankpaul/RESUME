@@ -1,0 +1,30 @@
+header > div{
+text-align: center;
+}
+header >div >div h1,h3{
+    margin: 3px;
+}
+body{
+background-color: rgb(231, 231, 242);
+}
+footer{
+    text-align: center;
+    margin: 5px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+/* main >div h3{
+    background-color: aquamarine;
+} */
+
+.smr{
+    background-color: aquamarine;
+    text-align: center;
+}
+main >div >p{
+    margin: 5px;
+}
