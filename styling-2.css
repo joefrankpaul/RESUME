@@ -19,9 +19,10 @@ footer{
     border-radius: 40px;
 }
 img{
-    width: 300px;
+    float: left;
+    width: 200px;
     height: auto;
-    border-radius: 150px;
+    border-radius: 50px;
 }
 /* main >div h3{
     background-color: aquamarine;
